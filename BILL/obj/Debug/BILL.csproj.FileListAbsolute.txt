@@ -1,0 +1,10 @@
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\bin\Debug\BILL.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\bin\Debug\BILL.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\bin\Debug\DAL.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\bin\Debug\Model.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\bin\Debug\DAL.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\bin\Debug\Model.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\obj\Debug\BILL.csprojResolveAssemblyReference.cache
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\obj\Debug\BILL.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\obj\Debug\BILL.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\BILL\bin\Debug\MySql.Data.dll
