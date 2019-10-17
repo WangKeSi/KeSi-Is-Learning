@@ -1,0 +1,6 @@
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\DAL\bin\Debug\DAL.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\DAL\bin\Debug\DAL.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\DAL\obj\Debug\DAL.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\DAL\obj\Debug\DAL.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\DAL\bin\Debug\MySql.Data.dll

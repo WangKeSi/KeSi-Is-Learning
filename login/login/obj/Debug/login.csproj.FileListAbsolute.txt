@@ -1,0 +1,15 @@
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\login.exe.config
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\login.exe
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\login.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\BILL.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\DAL.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\Model.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\BILL.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\DAL.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\bin\Debug\Model.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\obj\Debug\login.Form1.resources
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\obj\Debug\login.Properties.Resources.resources
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\obj\Debug\login.exe
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\login\obj\Debug\login.pdb

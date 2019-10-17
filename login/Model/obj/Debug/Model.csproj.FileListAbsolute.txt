@@ -1,0 +1,5 @@
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\Model\bin\Debug\Model.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\Model\bin\Debug\Model.pdb
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\Model\obj\Debug\Model.dll
+D:\研究生项目资料\JW-100数据传输\HelloAnyCAD\login\Model\obj\Debug\Model.pdb
